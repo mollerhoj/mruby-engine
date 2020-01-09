@@ -1,3 +1,13 @@
+# Fork README
+
+I made this fork because I wanted to be able to add more gems to mruby.
+
+Gems added so far:
+
+- JSON: 'mattn/mruby-json
+
+# Original README:
+
 # MRubyEngine
 
 MRuby engine is a sandboxed scripting engine. It wraps [mruby](https://mruby.org/) into a gem that can be included in any Ruby application.
